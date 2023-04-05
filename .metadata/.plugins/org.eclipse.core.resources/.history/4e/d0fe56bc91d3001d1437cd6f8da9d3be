@@ -1,0 +1,5 @@
+package com.ap.servlet;
+
+public class VotingElgibilityCheckServlet {
+
+}
